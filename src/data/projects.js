@@ -124,7 +124,10 @@ const dummyContent = {
 "What I Learned",
 
 "I understood through this lecture that a CV is not a simple list of qualifications but a promotional document that introduces me to employers. I understood the importance of tailoring my CV to each job application, aligning my skills and achievements with those required by the job. I also understood that formatting, readability, and error-free writing go a long way in creating a positive impression. Most significantly, I gained knowledge on how to properly format my CV and what to avoid, so that it becomes a better tool for my career advancement.",
-  ],
+,
+<img src={my_cv} alt="cv"></img>  
+
+],
   "Lecture 3": [
     "Key Points",
 
